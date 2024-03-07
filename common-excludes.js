@@ -69,7 +69,6 @@ module.exports = class CommonExcludes {
       '!node_modules/**/*.txt',
       '!node_modules/**/*.yml',
       '!node_modules/**/*.xml',
-      '!node_modules/**/*.html',
       '!node_modules/**/test/**',
       '!node_modules/**/tests/**',
       '!node_modules/**/examples/**',
